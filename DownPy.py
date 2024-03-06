@@ -37,7 +37,7 @@ def download_file(url, save_path):
 
 def main():
     url = input("Enter the URL of the file you want to download: ")
-    save_path = input("Enter the path where you want to save the file (including the filename or directory): ")
+    save_path = input("Enter the path where you want to save the file")
 
     download_file(url, save_path)
 
