@@ -49,3 +49,7 @@ Provide the direct path for the file to be saved to.
 Done!
 
 Enjoy seamless file downloading with DownPy!
+
+## Credits
+
+AxelTechTips: using downpy for a office installer project: https://github.com/axeltechtips/office
